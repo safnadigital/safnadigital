@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Safna 👋
 
-<!--
-**safnadigital/safnadigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Digital Marketing Strategist | SEO | SMM | WordPress
 
-Here are some ideas to get you started:
+Welcome to my digital marketing portfolio on GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building my personal brand, **Safna Digital**, where I help businesses improve their online presence through:
+
+- SEO
+- Social Media Marketing
+- Content Marketing
+- WordPress Website Development
+- Search Engine Marketing
+
+🌐 Website: https://safnadigital.com
+LinkedIn : www.linkedin.com/in/safna-shafi
+📍 Palakkad, Kerala, India
+
+Thank you for visiting my profile!
+Feel free to exploore my projects and connect with me!
